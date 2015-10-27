@@ -1,0 +1,2 @@
+# flume_openwrt
+OpenWrt路由器获取无线路由器的数据包或周围无线设备的RssI值，把获取的数据发送到flume服务器端口，flume收集数据放到大叔据存储设备上。
